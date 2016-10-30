@@ -1,0 +1,10 @@
+<katalog typ="Ersatzteilliste">
+ <eintrag nummer="1">
+  <name>Tragfläche linke Seite</name>
+  <status>verfügbar</status> 
+ </eintrag> 
+ <eintrag nummer="2">
+  <name>Tragfläche rechte Seite</name>
+  <status>nicht verfügbar</status> 
+ </eintrag> 
+</katalog>

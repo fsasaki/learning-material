@@ -1,0 +1,15 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT katalog (eintrag+)>
+<!ATTLIST katalog
+  typ NMTOKEN #REQUIRED>
+
+<!ELEMENT eintrag (name,status)>
+<!ATTLIST eintrag
+  nummer CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name>
+
+<!ELEMENT status (#PCDATA)>
+<!ATTLIST status>

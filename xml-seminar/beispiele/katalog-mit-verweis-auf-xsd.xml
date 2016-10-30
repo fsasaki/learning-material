@@ -1,0 +1,8 @@
+<katalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="katalog.xsd"
+ typ="Ersatzteilliste">
+ <eintrag nummer="1">
+  <name>Tragfläche linke Seite</name>
+  <status>verfügbar</status> 
+ </eintrag> 
+</katalog>

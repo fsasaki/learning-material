@@ -1,0 +1,7 @@
+<!DOCTYPE katalog SYSTEM "katalog.dtd">
+<katalog typ="Ersatzteilliste">
+ <eintrag nummer="1">
+  <name>Tragfläche linke Seite</name>
+  <status>verfügbar</status> 
+ </eintrag> 
+</katalog>

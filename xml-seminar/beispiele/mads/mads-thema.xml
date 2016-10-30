@@ -1,0 +1,38 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority>
+    <mads:topic authority="lcsh">Eames wire mesh chair</mads:topic>
+  </mads:authority>
+  <mads:related type="broader">
+    <mads:topic>Eames chairs</mads:topic>
+  </mads:related>
+  <mads:variant type="other">
+    <mads:topic>Bikini chair</mads:topic>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:topic>DKR shell chair, Eames</mads:topic>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:topic>Eiffel Tower chair</mads:topic>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:topic>Upholstered wire chair, Eames</mads:topic>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:topic>Wire chair, Eames</mads:topic>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:topic>Wire mesh chair, Eames</mads:topic>
+  </mads:variant>
+  <mads:note type="source">Work cat.: "Furniture select" photographs from the work of Charles and Ray Eames [graphic] 1942-1979: photos (Eames chair; wire chair; DKR (dining); DKW (desk); PKW (swivel); RKR (rocker); LKX (lounge); LKR (low))</mads:note>
+  <mads:note type="source">Neuhart, J. Eames design, 1989 (wire mesh chair; wire mesh side chair)</mads:note>
+  <mads:note type="source">Eames Office. Index of project titles &amp; alternatives, 1987: notebook #201 (Wire chair; DKR; Eiffel Tower chair)</mads:note>
+  <mads:note type="source">Stimpson, M. Modern furniture classics, 1987 (Eames DKR shell chair; bikini)</mads:note>
+  <mads:note type="notFound">Herman Miller Furniture Co. The Herman Miller collection, 1948</mads:note>
+  <mads:identifier type="lccn">sh 94004428 </mads:identifier>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">19960726154448.6</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">sh94004428</mads:recordIdentifier>
+  </mads:recordInfo>
+</mads:mads>

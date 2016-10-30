@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="katalog">
+      <attribute name="typ">
+        <data type="NCName"/>
+      </attribute>
+      <element name="eintrag">
+        <attribute name="nummer">
+          <data type="integer"/>
+        </attribute>
+        <element name="name">
+          <text/>
+        </element>
+        <oneOrMore>
+          <element name="status">
+            <data type="NCName"/>
+          </element>
+        </oneOrMore>
+      </element>
+    </element>
+  </start>
+</grammar>

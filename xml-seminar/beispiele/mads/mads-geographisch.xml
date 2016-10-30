@@ -1,0 +1,50 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:geographic/>
+  </mads:authority>
+  <mads:related type="later">
+    <mads:geographic>Sri Lanka</mads:geographic>
+  </mads:related>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:geographic/>
+  </mads:variant>
+  <mads:note type="nonpublic">SUBJECT USAGE: This name is not valid for use as a subject. Works about this place are entered under Sri Lanka</mads:note>
+  <mads:note type="source">Codrington, H.W. Ancient land tenure ... 1938</mads:note>
+  <mads:note type="source">Wikipedia, April 23, 2013 (British Ceylon, known contemporaneously as Ceylon, was a British Crown colony between 1815 and 1948. At first the area it covered did not include the Kingdom of Kandy, which was a protectorate from 1815, but from 1817 to 1948 the British possessions included the whole island of Ceylon, now the nation of Sri Lanka; Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in the northern Indian Ocean off the southern coast of the Indian subcontinent in South Asia; known until 1972 as Ceylon; Ceylon, known today as Sri Lanka, was a Dominion in the Commonwealth of Nations between 1948 and 1972. In 1948, British Ceylon was granted independence as Ceylon. In 1972, Ceylon became a republic within the Commonwealth, and its name was changed to "Sri Lanka")</mads:note>
+  <mads:identifier type="lccn">n  80061038 </mads:identifier>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130425073649.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n80061038</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

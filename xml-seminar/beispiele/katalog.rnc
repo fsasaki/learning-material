@@ -1,0 +1,11 @@
+default namespace = ""
+
+start =
+  element katalog {
+    attribute typ { xsd:NCName },
+    element eintrag {
+      attribute nummer { xsd:integer },
+      element name { text },
+      element status { xsd:NCName } +
+    }
+  }

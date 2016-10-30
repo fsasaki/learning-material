@@ -1,0 +1,8 @@
+<flugzeugAnleitung version="1.0">
+ <metaInformation>...</metaInformation>
+ <text>
+  <abschnitt>
+   <paragraph>...</paragraph>
+  </abschnitt> ...
+ </text>
+</flugzeugAnleitung>

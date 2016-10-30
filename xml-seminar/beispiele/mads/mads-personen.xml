@@ -1,0 +1,47 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Getz, Stan</mads:namePart>
+      <mads:namePart type="date">1927-1991</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Getz, Stanley</mads:namePart>
+      <mads:namePart type="date">1927-</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Getz, Stanley</mads:namePart>
+      <mads:namePart type="date">1927-1991</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Gayetsky, Stanley</mads:namePart>
+      <mads:namePart type="date">1927-1991</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Sauter, E.E. Stan Getz plays music from the soundtrack of the motion ... [SR] 1965</mads:note>
+  <mads:note type="source">Washington post, 6/7/91 (Stan Getz, 64; b. 2/2/27, Philadelphia; d. 6/6/91, Los Angeles)</mads:note>
+  <mads:note type="source">Connor, D.R. Benny Goodman, 1996: p. 167 (Getz, Stan (Stanley Gayetsky); d. June 6, 1991, Malibu, CA)</mads:note>
+  <mads:identifier type="lccn">n  81018141 </mads:identifier>
+  <mads:fieldOfActivity>jazz -</mads:fieldOfActivity>
+  <mads:classification>ML419.G48-Biography</mads:classification>
+  <mads:extension>
+    <mads:gender>
+      <mads:genderTerm>male</mads:genderTerm>
+    </mads:gender>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20111027064647.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n81018141</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

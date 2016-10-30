@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>Katalog - Übersicht 
+Zahl der katalogisierten Einheiten:  2 
+Zahl der verfügbaren Einheiten:  1 
+Zahl der nicht verfügbaren Einheiten:  1

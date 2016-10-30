@@ -1,0 +1,50 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="corporate" authority="naf">
+      <mads:namePart>Tamil̲īl̲a Viṭutalaippulikaḷ (Association)</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Liberation Tigers of Tamil Eelam (Association)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Tamil̲il̲a Viṭutalaip Pulikaḷ (Association)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="corporate">
+      <mads:namePart>LTTE</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Tamil Tigers (Association)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="corporate">
+      <mads:namePart>El. Ṭī. Ṭī. Ī</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Viṭutalaippulikaḷ, 15.3.84: t.p. (Tamil̲īl̲a Viṭutalaipulikaḷ; Madrāsa)</mads:note>
+  <mads:note type="source">Pālaciṅkam, Ē. Es. Liberation tigers &amp; Tamil Eelam ... 1983: t.p. (Liberation Tigers of Tamil Ealam; Tamil̲il̲a Viṭulalaip Pulikaḷ) p. 24 (est. in 1972 as Tamil New Tigers [no publs. in LC data base]; later changed to Liberation Tigers of Tamil Eelam, in 1976)</mads:note>
+  <mads:note type="source">Sardeshpande S. C. Assignment Jaffna, c1992: p. vi (LTTE; Liberation Tigers of Tamil Eelam)</mads:note>
+  <mads:note type="source">Bose, S. States, nations, sovereignty, 1994: CIP galley (Liberation Tigers of Tamil Eelam, LTTE, Tamil Tigers)</mads:note>
+  <mads:note type="source">Prabhākarangē sihina rājya, 2011: t.p. (El. Ṭī. Ṭī. Ī.)</mads:note>
+  <mads:identifier type="lccn">n  84195464 </mads:identifier>
+  <mads:identifier type="lccn" invalid="yes">n  85014596 </mads:identifier>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130503073718.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n84195464</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

@@ -1,0 +1,10 @@
+<katalog typ="Ersatzteilliste">
+  <eintrag nummer="1">
+    <name>Tragfläche linke Seite</name>
+    <svg:svg xmlns:svg="http://example.com/my-namespace">tbd</svg:svg>
+    <status>verfügbar</status> 
+    <zweitansicht>
+      <svg:svg>tbd</svg:svg>
+    </zweitansicht>
+    </eintrag> ...
+</katalog>

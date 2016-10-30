@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>A TEI P5 Sample File</title><meta name="author" content="" /><meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets" /><meta name="DC.Title" content="A TEI P5 Sample File" /><meta name="DC.Type" content="Text" /><meta name="DC.Format" content="text/html" /><link href="http://www.tei-c.org/release/xml/tei/stylesheet/tei.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" media="print" type="text/css" href="http://www.tei-c.org/release/xml/tei/stylesheet/tei-print.css" /></head><body class="simple" id="TOP"><div class="stdheader"><h2 class="institution">A TEI Project</h2><h1 class="maintitle">A TEI P5 Sample File</h1></div>
+      <div class="preface" id="index.xml-front.1_div.1"><h2><span class="head">PREFACE</span></h2>
+        
+        <p>
+          I have endeavoured in this
+          <em>Ghostly</em>
+          little book, to raise the
+          <em>Ghost</em>
+                    of an xml:idea, which shall not put my readers out of humour with themselves, with each other, with
+                    the season, or with me. May it haunt their houses pleasantly, and no one wish to lay it.
+        </p>
+        <div class="signed">
+          Their faithful Friend and Servant, C.D.
+          <span class="date">December, 1843.</span>
+        </div>
+      </div>
+    <h2>Table of contents</h2><ul class="toc toc_front"><li class="toc"><a href="#index.xml-front.1_div.1" class="toc toc_0">PREFACE</a></li></ul><ul class="toc toc_body"><li class="toc"><span class="headingNumber">1. </span><a href="#index.xml-body.1_div.1" class="toc toc_0">Something Literary</a><ul class="toc"><li class="toc"><span class="headingNumber">1.1. </span><a href="#index.xml-body.1_div.1_div.1" class="toc toc_1">Literary Example</a></li></ul></li><li class="toc"><span class="headingNumber">2. </span><a href="#index.xml-body.1_div.2" class="toc toc_0">Markup examples</a><ul class="toc"><li class="toc"><span class="headingNumber">2.1. </span><a href="#index.xml-body.1_div.2_div.1" class="toc toc_1">Some simple markup</a></li></ul></li><li class="toc"><span class="headingNumber">3. </span><a href="#index.xml-body.1_div.3" class="toc toc_0">Tables</a></li><li class="toc"><span class="headingNumber">4. </span><a href="#P1" class="toc toc_0" title="Some lists">Some lists</a></li><li class="toc"><span class="headingNumber">5. </span><a href="#index.xml-body.1_div.5" class="toc toc_0">Some more literary examples</a></li></ul>
+      <div class="teidiv0" id="index.xml-body.1_div.1"><h2><span class="headingNumber">1. </span><span class="head">Something Literary</span></h2>
+        
+        <div class="teidiv1" id="index.xml-body.1_div.1_div.1"><h3><span class="headingNumber">1.1. </span><span class="head">Literary Example</span></h3>
+          
+          <div class="stanza">
+            <div class="l">Opinion governs all mankind,</div>
+            <div class="indent2em">Like the blind leading of the blind:</div>
+            <div class="l">And like the world, men's jobbernoles</div>
+            <div class="indent1em">Turn round upon their ears the poles,</div>
+            <div class="l">And what they're confidently told</div>
+            <div class="l">By no sense else can be control'd.</div>
+          </div>
+        </div>
+      </div>
+      <div class="teidiv0" id="index.xml-body.1_div.2"><h2><span class="headingNumber">2. </span><span class="head">Markup examples</span></h2>
+        
+        <div class="teidiv1" id="index.xml-body.1_div.2_div.1"><h3><span class="headingNumber">2.1. </span><span class="head">Some simple markup</span></h3>
+          
+          <p>The
+            <span class="gi">&lt;hi&gt;</span>
+            element is used for various forms of highlighting: e.g.
+            <b>bold</b>,
+            <i>italic</i>
+            and
+            <span style="font-variant: small-caps">small caps</span>.</p>
+          <p>The
+            <span class="gi">&lt;emph&gt;</span>
+            element is used for linguistic emph<em>asis</em>.
+            ‘highlighting’
+            (<span class="gi">&lt;soCalled&gt;</span>) nor with
+            <span class="mentioned">shouting</span>
+            (<span class="gi">&lt;mentioned&gt;</span>),
+            <span class="term">transmogrification</span>, (a technical
+            <span class="gi">&lt;term&gt;</span>), for which the
+            <span class="gi">&lt;gloss&gt;</span>
+            tag might be used to supply
+            <span class="gloss">a technical definition</span>).</p>
+          <p>Now for some links! We will start by cross-referring to the next section.</p>
+          <p>Here is a simple
+            <span class="gi">&lt;ptr&gt;</span>
+            to it:
+            <a href="#P1" class="link_ptr" title="Some lists"><span class="headingNumber">4. </span>Some lists</a>. Here is a simple
+            <span class="gi">&lt;ref&gt;</span>, a
+            <a href="#P1" class="link_ref" title="Some lists">reference to it</a>.</p>
+          <p>An
+            <a class="link_ref" href="http://www.bbc.co.uk">external link</a>
+            as ref and as ptr:
+            <a class="link_ptr" href="http://www.bbc.co.uk"><span>http://www.bbc.co.uk</span></a>.</p>
+        </div>
+      </div>
+      <div class="teidiv0" id="index.xml-body.1_div.3"><h2><span class="headingNumber">3. </span><span class="head">Tables</span></h2>
+        
+        <p>Tables may have cells that span multiple columns and rows.</p>
+        <div class="table"><table class="table"><caption>Pictures from Fagaras mountains</caption><tr class="label">
+            <td>Image</td>
+            <td>Description</td>
+            <td>Camera direction</td>
+          </tr><tr>
+            <td rowspan="2">SVG, JPEG, GIF or PNG format</td>
+          </tr><tr>
+            <td colspan="2" class="label">
+              <em>All pictures were taken on Jun 27, 2007
+              </em>
+            </td>
+          </tr><tr>
+            <td>
+              <img src="nature1.jpg" alt="" class="graphic" />
+            </td>
+            <td>Mountain flowers.
+            </td>
+            <td>north</td>
+          </tr><tr>
+            <td>
+              <img src="nature2.jpg" alt="" class="graphic" />
+            </td>
+            <td>Sunset over a secondary ridge.</td>
+            <td>north-east</td>
+          </tr><tr>
+            <td>
+              <img src="nature3.jpg" alt="" class="graphic" />
+            </td>
+            <td>Glacier lake at 2100m altitude.</td>
+            <td>east</td>
+                    </tr></table></div>
+                <div class="table"><table class="table"><caption>
+                        <b>TEI Span Sample</b>
+                    </caption><tr class="label">
+                        <td colspan="2">Spans
+                            <b>Horizontally</b>
+                        </td>
+                        <td>Header 3</td>
+                        <td colspan="2">Spans
+                            <b>Horizontally</b>
+                        </td>
+                    </tr><tr>
+                        <td rowspan="4">Spans
+                            <b>Vertically</b>
+                        </td>
+                        <td>a</td>
+                        <td>b</td>
+                        <td>c</td>
+                        <td>d</td>
+                    </tr><tr>
+                        <td>e</td>
+                        <td colspan="2" rowspan="2">Spans
+                            <b>both</b>
+                        </td>
+                        <td>f</td>
+                    </tr><tr>
+                        <td>g</td>
+                        <td>g</td>
+                    </tr><tr>
+                        <td>i</td>
+                        <td>j</td>
+                        <td colspan="2">Spans
+                            <b>Horizontally</b>
+                        </td>
+                    </tr><tr>
+                        <td>k</td>
+                        <td>l</td>
+                        <td>m</td>
+                        <td>n</td>
+                        <td>o</td>
+                    </tr></table></div>
+      </div>
+      <div class="teidiv0" id="P1"><h2><span class="headingNumber">4. </span><span class="head">Some lists</span></h2>
+        
+        <div class="p">Various sorts of list are legal within paragraphs...
+          <ol><li class="item">Dogs</li><li class="item">Zebras</li><li class="item">Birds</li><li class="item">Cats</li></ol>
+        </div>
+        <dl><dt id="index.xml-item-d27e413"><span id="index.xml-label-d27e410">100</span></dt><dd>first item
+          </dd><dt id="index.xml-item-d27e419"><span id="index.xml-label-d27e416">200</span></dt><dd>second item
+          </dd><dt id="index.xml-item-d27e426"><span id="index.xml-label-d27e422">300</span></dt><dd>third item
+          </dd></dl>
+        <p>The preceding lists was between paragraphs.</p>
+        <div class="p">
+          <span class="listhead">This untyped list has a heading and a nested glosslist
+            </span><ul><li class="item">first item
+            </li><li class="item">
+              <dl><dt id="index.xml-item-d27e450"><span id="index.xml-label-d27e447">25</span></dt><dd>first item
+                </dd><dt id="index.xml-item-d27e456"><span id="index.xml-label-d27e453">35</span></dt><dd>second item
+                </dd><dt id="index.xml-item-d27e463"><span id="index.xml-label-d27e459">45</span></dt><dd>third item
+                </dd></dl>
+            </li><li class="item">third item
+            </li></ul>
+        </div>
+      </div>
+      <div class="teidiv0" id="index.xml-body.1_div.5"><h2><span class="headingNumber">5. </span><span class="head">Some more literary examples</span></h2>
+        
+        <p>And now for something dramatic...
+        </p>
+        <div class="speaker" id="index.xml-sp-d27e482">Roderigo</div><div class="p-in-sp">Where shall we meet i' the morning?</div>
+        <div class="speaker" id="index.xml-sp-d27e491">Iago</div><div class="p-in-sp">At my lodging.</div>
+        <div class="speaker" id="index.xml-sp-d27e500">Roderigo</div><div class="p-in-sp">I'll be with thee betimes.</div>
+        <div class="speaker" id="index.xml-sp-d27e510">Iago</div><div class="p-in-sp">Go to; farewell. Do you hear, Roderigo?</div>
+        <div class="speaker" id="index.xml-sp-d27e519">Roderigo</div><div class="p-in-sp">What say you?</div>
+        <div class="speaker" id="index.xml-sp-d27e528">Iago</div><div class="p-in-sp">No more of drowning, do you hear?</div>
+        <div class="speaker" id="index.xml-sp-d27e537">Roderigo</div><div class="p-in-sp">I am changed: I'll go sell all my land.</div>
+      </div>
+    <div class="stdfooter"><div class="footer"><a class="plain" href="http://www.tei-c.org/">Parent Institution</a> | <a class="plain" href="http://www.tei-c.org/">TEI</a>| <a class="plain" href="http://www.google.com">Search</a> | <a class="plain" href="mailto:feedback">Feedback</a></div><address>Date: 2012-02-03<br />This page is copyrighted<!--
+	  Generated from index.xml using an XSLT version 2.0 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/
+	  processed using SAXON 9.3.0.5 from Saxonica
+	  on 2012-02-03T14:42:16Z--></address></div></body></html>
