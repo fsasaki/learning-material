@@ -1,1 +1,1 @@
-# XML Seminar. See also slideshare http://de.slideshare.net/atcfsenzoku for the slides. The seminar slides are in German. Examples are in the beispiele folder. 
+XML Seminar. See also slideshare http://de.slideshare.net/atcfsenzoku for the slides. The seminar slides are in German. Examples are in the beispiele folder. 
